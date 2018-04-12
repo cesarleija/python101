@@ -1,3 +1,3 @@
 # Python 101
 Projects developed for ADyCS
-Build version 1.1
+Build version 1.2
