@@ -9,6 +9,7 @@ class MultiplyTestCase(unittest.TestCase):
 
 class OddOrEvenTestCase(unittest.TestCase):
     def test_isModulus2Cero_with_correct_values(self):
+        #!@brief Doxygen documentation test.
         self.assertEqual(isModulus2Cero(2),True)
     def test_isModulus2Cero_with_incorrect_values(self):
         self.assertFalse(isModulus2Cero(3),True)
