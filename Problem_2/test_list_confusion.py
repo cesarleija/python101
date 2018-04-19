@@ -6,6 +6,13 @@ from list_confusion import generateRandomLists
 class list_confusion_test(unittest.TestCase):
     print()
     def testA_orderedLists(self):
+        ## @package pyexample
+        #  Documentation for this module.
+        #
+        #  More details.
+        ## Documentation for a function.
+        #
+        #  More details.
         self.assertEqual(getCommonElements([1,2,3],[1,2,3]),[1,2,3])
         print(".+ Test test_orderedLists Passed")
     def testB_firstListLarger(self):
