@@ -7,7 +7,7 @@ import random
 
 
 def getCommonElements(a,b):
-    """Documentation for a method. list_confusion."""
+    """Documentation for a method. list_confusion..."""
     try:
         alen = len(a)
         blen = len(b)
