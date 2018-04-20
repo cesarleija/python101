@@ -8,7 +8,8 @@ from list_confusion import getCommonElements
 from list_confusion import generateRandomLists
 
 
-class list_confusion_test(unittest.TestCase):    
+class list_confusion_test(unittest.TestCase):
+    #  @param self The object pointer.
     def testA_orderedLists(self):
         self.assertEqual(getCommonElements([1,2,3],[1,2,3]),[1,2,3])
         """Documentation for a method."""
