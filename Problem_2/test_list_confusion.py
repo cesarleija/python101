@@ -11,6 +11,7 @@ from list_confusion import generateRandomLists
 class list_confusion_test(unittest.TestCase):    
     def testA_orderedLists(self):
         self.assertEqual(getCommonElements([1,2,3],[1,2,3]),[1,2,3])
+        """Documentation for a method."""
         print(".+ Test test_orderedLists Passed")
     def testB_firstListLarger(self):
         self.assertEqual(getCommonElements([1,2,3,4],[1,2,3]),[1,2,3])
