@@ -1,4 +1,4 @@
-"""@package docstring
+"""@package Problem_2
 Documentation for this module.
 More details.
 """
