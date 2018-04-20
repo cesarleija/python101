@@ -3,10 +3,9 @@ from list_confusion import getCommonElements
 from list_confusion import generateRandomLists
 
 
-class list_confusion_test(unittest.TestCase):
-    print()
+class list_confusion_test(unittest.TestCase):    
     def testA_orderedLists(self):
-        ## @package pyexample
+        ## @package Problem_2
         #  Documentation for this module.
         #
         #  More details.
