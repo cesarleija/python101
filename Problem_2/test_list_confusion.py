@@ -1,4 +1,4 @@
-"""@package Problem_2
+"""@package python101
 Documentation for this module.
 More details.
 """
